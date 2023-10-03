@@ -22,6 +22,7 @@ public class Main {
                 System.out.print(num + " " );
             }
         }
+        System.out.println( );
 
     }
 
@@ -33,6 +34,7 @@ public class Main {
                 System.out.print(num + " ");
             }
         }
+        System.out.println( );
     }
 
     private static void task3(List<String> words) {
